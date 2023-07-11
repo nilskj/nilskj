@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nilskj
-- 👀 I’m interested in typescript full stack development
+- 👀 I’m interested in full stack development and HTMX
 - 🌱 I’m currently learning more about data science and machine learning
-- 💞️ I’m looking to collaborate on [trpc](https://github.com/trpc/trpc) 
+- 💞️ I’m looking to collaborate on [editable website](https://github.com/michael/editable-website)
 - 📫 How to reach me: [web](https://nisse.tech/)
 
 <!---
